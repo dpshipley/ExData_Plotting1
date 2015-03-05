@@ -35,8 +35,7 @@ web site</a>:
 
 ## Loading the data
 
-
-
+*Assumption that data will be downloaded and extracted from zip file into the R working directory
 
 
 When loading the dataset into R, please consider the following:
